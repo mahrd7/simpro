@@ -1,0 +1,272 @@
+[{
+    "text": "RBK", 
+    "cls": "folder",
+    "checked":false,
+    "id":"rbk",
+    "children": [{
+        "text": "Data Umum Proyek",
+        "checked":false,
+        "id":"proyek",
+        "leaf": true
+    },{
+        "text": "RAB",
+        "checked":false,
+        "id":"rab",
+        "leaf": true
+    },{
+        "text": "RAP",
+        "checked":false,
+        "id":"rap",
+        "leaf": true
+    }]
+},{
+    "text": "Pengandalian",
+    "cls": "folder",
+    "checked":false,
+    "id":"pengendalian",
+    "children": [{
+        "text": "Kontrak Terkini",
+        "checked":false,
+        "id":"kontrak_terkini",
+        "leaf": true
+    },{
+        "text": "LPF (Laporan Progress Fisik)",
+        "checked":false,
+        "id":"lpf",
+        "leaf": true
+    },{
+        "text": "Cost To Go (Sisa Anggaran BK)",
+        "checked":false,
+        "id":"costogo",
+        "leaf": true
+    },{
+        "text": "Current Budget (Anggaran BK Revisi)",
+        "checked":false,
+        "id":"current_budget",
+        "leaf": true
+
+    },{
+        "text": "Schedule Kerja",
+        "checked":false,
+        "id":"schedule_kerja",
+        "leaf": true
+
+    },{
+        "text": "Daftar Alat",
+        "id":"daftar_alat",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Rencana Kontrak Terkini",
+        "id":"rencana_kontrak_terkini",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Rencana Posisi Beban Kontrak",
+        "id":"rpbk",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Material On Site",
+        "id":"mos",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Rencana Kerja",
+        "id":"rencana_kerja",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Kajian Kendala Proyek",
+        "id":"kkp",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Proses Pelaporan",
+        "id":"proses_pelaporan",
+        "checked":false,
+        "leaf": true
+
+    },{
+        "text": "Cashflow",
+        "id":"cashflow",
+        "checked":false,
+        "leaf": true
+
+    }]
+},{
+    "text": "Transaksi", 
+    "cls": "folder",
+    "checked":false,
+    "id":"transaksi",
+    "children": [{
+        "text": "Pilih Leveransir / Toko",
+        "id":"pilih_toko",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Cash To Date",
+        "id":"cashtodate",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Hutang",
+        "id":"hutang",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Antisipasi",
+        "id":"antisipasi",
+        "checked":false,
+        "leaf": true
+    }]
+},{
+    "text": "Mutu & Risiko", 
+    "cls": "folder",
+    "id":"mutu_risiko",
+    "checked":false,
+    "children": [{
+        "text": "Rencana & Realisasi Mutu",
+        "id":"rencana_realisasi_mutu",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Identifikasi Risiko",
+        "id":"identifikasi_risiko",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Daftar Risiko",
+        "id":"daftar_risiko",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Lap Bulanan Risiko",
+        "id":"lapbul_risiko",
+        "checked":false,
+        "leaf": true
+    }]
+},{
+    "text": "Dokumentasi", 
+    "cls": "folder",
+    "id":"dokumentasi",
+    "checked":false,
+    "children": [{
+        "text": "Dokumentasi Foto",
+        "id":"dokFoto",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Dokumentasi K3",
+        "id":"dokK3",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Inovasi / VE",
+        "id":"inovasi",
+        "checked":false,
+        "leaf": true
+    }]
+},{
+    "text": "Master", 
+    "cls": "folder",
+    "id":"master",
+    "checked":false,
+    "children": [{
+        "text": "User Level",
+        "id":"level",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Master Satuan",
+        "id":"satuan",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "User",
+        "id":"user_current",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Unit Usaha / Divisi",
+        "id":"divisi",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Sumber Dana",
+        "id":"sumber_dana",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Pemilik",
+        "id":"pemilik",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "SBU / Jenis Pekerjaan",
+        "id":"sbu",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Dafar Peralatan",
+        "id":"daftar_peralatan",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Provinsi",
+        "id":"provinsi",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Direktorat",
+        "id":"direktorat",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Subbidang",
+        "id":"subbidang",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Sumber Daya",
+        "id":"sumber_daya",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Input PU, BK & LK",
+        "id":"input_pubklk",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Kalendar Kerja",
+        "id":"kalendar_kerja",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Toko",
+        "id":"toko",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Target Dashboard",
+        "id":"target_dashboard",
+        "checked":false,
+        "leaf": true
+    },{
+        "text": "Master Analisa",
+        "id":"master_analisa",
+        "checked":false,
+        "leaf": true
+    // },{
+    //     "text": "All User",
+    //     "id":"user",
+    //     "checked":false,
+    //     "leaf": true
+    }]
+}]

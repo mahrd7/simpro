@@ -1,0 +1,64 @@
+Home
+	Dashboard Produksi seperti di online
+Rencana 
+	Dashboard RBK
+	RAT/RATA
+	RAB
+	Data Umum 
+	Sketsa
+	Lokasi Proyek
+RBK
+	RAP/I
+	Daftar Analisa
+	Daftar Item
+	Kertas Kerja (excel)
+	RAPA
+	Rencana Penggunaan SKBDN
+	Surat Pernyataan
+	RINCIAN RENCANA PENGADAAN PERATATAN,KENDARAAN & INVESTASI EXTRA COMBTABTE
+	Evaluasi Perbandingan RAB-RAT-RAPI
+	Checklist Dokumen Penawaran Rekanan
+Pengendalian
+	Kontrak Kini
+	LPF
+	CostToGo
+	CurrentBudget
+	Schedule kerja
+	Schedule Alat-bahan-Person
+	Daftar Alat
+	Penggunaan Alat
+	Rencana Kontrak Kini
+	Rencana Posisi Beban Kontrak
+	Rincian Rencana Kerja
+	Material On Site
+	Penggunaan Peralatan
+	Kajian kendala Proyek
+Transaksi
+	Cash
+	Antisipasi
+	Hutang
+	Klad Kas
+	Klad Bank
+	Saldo Kas
+	Cashflow
+	Kartu Termin
+Mutu & Risiko
+	Rencana & Realisasi Mutu
+	Identifikasi Risiko (FM-MR01)
+	Daftar Risiko (FM-MR02)
+	Lap Bulanan Risiko (FM-MR03)
+Laporan
+	LBP01
+	PBK01
+	Cashflow Proyek
+	Kurva S
+	Neraca Proyek
+	Dashboard / Rekap Proyek
+	FM RTC 11  (Rencana Time Schedule)
+	FM RTC 21  (Realisasi Time Schedule)
+	Rincian Saldo Kas
+	Rekap Laporan Proyek
+	Laporan Akhir Proyek
+	Laporan Penggunaan Peralatan Bulanan
+	Laporan Lain
+	

@@ -1,0 +1,33 @@
+tbl_detail_material & subbidang
+subbidang_kode
+
+tbl_sbu
+sbu_id
+sbu_kode
+
+509
+
+satuan pekerjaan autocomplete
+
+simpro_rat_item_tree
+simpro_m_satuan
+simpro_rat_analisa
+
+tree_volume
+tree_satuan
+
+select satuan_nama from tbl_satuan
+
+CREATE SEQUENCE seq_tree_count;
+
+select * from simpro_rat_item_tree
+
+=============================
+
+http://localhost/simpro/pengendalian/kontrak_terkini
+
+* Penggunaan Alat
+
+
+proyek_id
+

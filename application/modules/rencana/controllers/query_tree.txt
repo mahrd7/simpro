@@ -1,0 +1,15 @@
+WITH RECURSIVE d AS (
+  SELECT 
+	rat_item_tree, kode_tree, tree_item
+   FROM simpro_rat_item_tree
+   WHERE rat_item_tree = 1
+   AND id_proyek_rat = 9
+ UNION ALL
+  SELECT c.rat_item_tree, c.kode_tree, c.tree_item
+   FROM d JOIN simpro_rat_item_tree c ON c.tree_parent_id = d.rat_item_tree
+)
+
+SELECT * FROM d
+ ORDER BY rat_item_tree
+ LIMIT 100 OFFSET 0;
+ 

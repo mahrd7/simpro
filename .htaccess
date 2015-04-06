@@ -1,0 +1,10 @@
+RewriteEngine on
+#RewriteBase /simpro
+RewriteCond $1 !^(index\.php|images|assets|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php/$0 [PT,L] 
+#<Directory ~ "\.svn">
+#    Order allow,deny
+#    Deny from all
+#</Directory>

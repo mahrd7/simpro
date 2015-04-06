@@ -1,0 +1,4 @@
+ALTER SEQUENCE seq_id_satuan_pekerjaan RESTART WITH 1;
+
+
+
