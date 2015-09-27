@@ -14,7 +14,7 @@ Class Sinkronisasi extends MX_Controller {
 	
 	function index()
 	{
-		define('SOAPSERVER', 'http://simpro.nindyakarya.co.id/simpro-d/sync/index.php?wsdl');	
+		define('SOAPSERVER', 'http://xxxxxxxx/xxxx/sync/index.php?wsdl');	
 		$client = new soapclient(SOAPSERVER, true); 
 		$err = $client->getError();
 		if ($err) {
